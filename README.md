@@ -64,19 +64,13 @@ The file _.env_ is meant to set the environment variables. Request a copy of thi
 #### serve localhost:3000
 
 ```
-npm run dev
+npm start
 ```
 
-#### build for production with minification
+#### test
 
 ```
-npm run build
-```
-
-#### lint
-
-```
-npm run lint
+npm run test
 ```
 
 ## Status
